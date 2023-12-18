@@ -7,4 +7,11 @@ public class Constantes {
     public static final String EX_VALORES_VACIOS = "El valor viene vacío, es requerido para continuar";
     public static final String EX_NOT_FOUND_RECURSO = "No existe el recurso";
     public static final String EX_DUPLICADO = "RUC ya se encuentra registrado";
+    public static final String ALGO_SALIO_MAL = "Ocurrió un error";
+    public static final String SECRET_TOKEN = "8CDSuBLW7&UatyqRj3c%AbwLk5RcT!";
+    public static final String USER_PRUEBA = "admin";
+    public static final String PASSWORD_PRUEBA = "admin";
+    public static final String NOMBRE_USER_PRUEBA = "grupoexpro";
+
+
 }

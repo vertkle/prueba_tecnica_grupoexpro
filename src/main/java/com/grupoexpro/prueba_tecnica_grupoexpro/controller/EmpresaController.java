@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 @RestController
-@RequestMapping(path = "/empresa")
+@RequestMapping(path = "/api/empresa")
 public class EmpresaController {
     @Autowired
     private EmpresaService empresaService;
