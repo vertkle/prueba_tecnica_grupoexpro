@@ -36,7 +36,7 @@ Luego tienes que poner el token que generaste:
 Luego de poner el token, ya puedes ejecutar el endpoint, si resulta ok, te devolverá el objeto insertado.
 
 6. Él último endpoint, te retorna los 3 últimos registros, del mismo modo, necesita el token, para ver la información
-
+   el endpoint es `/api/empresa`, con el método GET
 ![Logo del Proyecto](https://raw.githubusercontent.com/vertkle/prueba_tecnica_grupoexpro/main/src/main/resources/static/get_3.png)
 
 
