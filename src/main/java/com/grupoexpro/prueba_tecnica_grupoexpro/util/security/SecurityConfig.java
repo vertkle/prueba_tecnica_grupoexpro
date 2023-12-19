@@ -28,7 +28,7 @@ public class SecurityConfig {
                 .and()
                 .csrf().disable()
                 .authorizeHttpRequests()
-                .antMatchers("/api/usuario/login","/h2-console/**")
+                .antMatchers("/api/usuario/login")
                 .permitAll()
                 .anyRequest()
                 .authenticated()
